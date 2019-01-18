@@ -14,7 +14,7 @@ const path = require('path');
       hot: true
     },
     plugins: [
-      new CleanWebpackPlugin(['doc']),
+      new CleanWebpackPlugin(['docs']),
       new HtmlWebpackPlugin({
         title: 'Physball'
       }),
@@ -22,6 +22,6 @@ const path = require('path');
     ],
     output: {
       filename: '[name].bundle.js',
-      path: path.resolve(__dirname, 'doc')
+      path: path.resolve(__dirname, 'docs')
     }
   };
