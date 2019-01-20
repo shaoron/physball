@@ -3,5 +3,7 @@
 
 Смотреть здесь: https://shaoron.github.io/physball-site/
 
-Двухмерный батут, основанный на той же модели
+Двухмерный батут, основанный на той же модели. Больше точек, улучшены коллизии, ошибки не накапливаются благодаря затуханию
 https://github.com/shaoron/trampoline
+
+Cмотреть здесь: https://shaoron.github.io/trampoline-site/
